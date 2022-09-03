@@ -1,17 +1,3 @@
-"""
-Trabalho de Redes de Computadores 
-Professor Hermes Senger
-
-Membros da Equipe
-
-#Patrícia da Silva Ramos - 795410
-Marcelina Maye Abaga Maye - 790139
-#Karen Ketlyn Ferreira Barcelos - 799657
-"""
-
-
-
-
 #!/usr/bin/env python3
 import asyncio
 from tcp import Servidor
