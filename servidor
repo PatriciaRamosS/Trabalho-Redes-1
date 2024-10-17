@@ -3,7 +3,6 @@
 # GRUPO
 # Patrícia da Silva Ramos
 # Marcelina Maye Abaga Maye 
-# Karen Ketlyn Ferreira Barcelos
 
 import asyncio
 from tcp import Servidor
